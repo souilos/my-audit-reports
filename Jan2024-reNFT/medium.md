@@ -9,7 +9,7 @@ reNFT allows people to rent NFTs by fulfilling a Seaport order. An owner (lender
 The renter will be able to enjoy his rented NFTs, that are gonna placed in a safe (Gnosis) where he is not able to move them to another contract.
 
 The reNFT protocol can take fees on rentals to remunerate his Admins.
-These fees can be 0, and that could be a good way to promote the protocol at first. However, updating this fees would impact all all current rented NFTs.
+These fees can be 0, and that could be a good way to promote the protocol at first. However, updating this fees would impact all of current rented NFTs.
 Although only the Admins are able to change those fees this would be unfair for a lender (owner), to see the fees updated while he is renting his NFTs.
 For him that would result in making less money than promised, and also a lack of trust for future potential rents (in the case of using the BASE method).
 Using the PAY method, a renter would also have less money than promised and the consequences would be the same.
